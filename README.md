@@ -1,3 +1,2 @@
 # skt_octitnotes
-A php webproject for my college to distribute notes among the students of my branch.
-I am also learning django framework and thinking for makeing same project from python.  
+A php webapp for my college to distribute notes among the students. From one side college faculties upload thier notes and another side students can find notes according to their interest either by subject or faculty.Here I have used PHP as server side language and MySQL for database.
